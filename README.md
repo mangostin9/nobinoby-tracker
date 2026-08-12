@@ -1,5 +1,4 @@
 ![GitHub](https://img.shields.io/badge/Git-GitHub-black?logo=git)
-![License](https://img.shields.io/badge/License-MIT-blue)
 ![Beginner](https://img.shields.io/badge/Level-Beginner-success)
 
 # nobinoby-tracker
